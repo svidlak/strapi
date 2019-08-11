@@ -30,4 +30,6 @@ module.exports = {
     .default,
   'strapi-plugin-upload': require('../../../strapi-plugin-upload/admin/src')
     .default,
+  'strapi-plugin-excel': require('../../../strapi-plugin-excel/admin/src')
+    .default,
 };
